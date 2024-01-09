@@ -99,8 +99,8 @@ dependencies:
     specifier: ^0.2.1
     version: 0.2.1(next@14.0.4)(react-dom@18.2.0)(react@18.2.0)
   openai:
-    specifier: ^4.24.1
-    version: 4.24.1
+    specifier: ^4.24.2
+    version: 4.24.2
   pdf-parse:
     specifier: ^1.1.1
     version: 1.1.1
@@ -695,7 +695,7 @@ packages:
     dependencies:
       '@langchain/core': 0.1.10
       js-tiktoken: 1.0.8
-      openai: 4.24.1
+      openai: 4.24.2
       zod: 3.22.4
       zod-to-json-schema: 3.20.3(zod@3.22.4)
     transitivePeerDependencies:
@@ -3786,8 +3786,8 @@ packages:
     dependencies:
       wrappy: 1.0.2
 
-  /openai@4.24.1:
-    resolution: {integrity: sha512-ezm/O3eiZMnyBqirUnWm9N6INJU1WhNtz+nK/Zj/2oyKvRz9pgpViDxa5wYOtyGYXPn1sIKBV0I/S4BDhtydqw==}
+  /openai@4.24.2:
+    resolution: {integrity: sha512-Np5zFPAYsBRmsfgPS8cMM25r1wVO5NCTdmeoYDNEUhJn/rw6jNXU0CFSFwhbWsjIkYhdv31pPIzQ0xChHCvltQ==}
     hasBin: true
     dependencies:
       '@types/node': 18.19.5
